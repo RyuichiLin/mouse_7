@@ -1,0 +1,275 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.16">
+  <diagram name="Page-1" id="5MhzN_Rsdb0V0YpIr9oB">
+    <mxGraphModel dx="1631" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c-ivuKC2rDV8woBmamo8-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-1" target="c-ivuKC2rDV8woBmamo8-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-1" value="[&lt;i&gt;&lt;b&gt;git init&lt;/b&gt; &amp;lt;new_folder_name_for_project&amp;gt;&lt;/i&gt;]&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-2" target="c-ivuKC2rDV8woBmamo8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-7" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c-ivuKC2rDV8woBmamo8-5">
+          <mxGeometry x="-0.5135" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-2" target="c-ivuKC2rDV8woBmamo8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-110" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c-ivuKC2rDV8woBmamo8-109">
+          <mxGeometry x="-0.0893" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-2" value="Is there a remote Git &lt;br&gt;repository for the project already?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="405" y="170" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-3" target="c-ivuKC2rDV8woBmamo8-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="635" y="410" />
+              <mxPoint x="390" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-3" value="[&lt;i&gt;&lt;b&gt;git clone&lt;/b&gt; &amp;lt;project_url&amp;gt;&lt;/i&gt;]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="565" y="320" width="145" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-8" target="c-ivuKC2rDV8woBmamo8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-8" value="Fresh Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-10" target="c-ivuKC2rDV8woBmamo8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-10" value="[&lt;i&gt;&lt;b&gt;git branch&lt;/b&gt;&lt;/i&gt;]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="495" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-13" target="c-ivuKC2rDV8woBmamo8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-17" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c-ivuKC2rDV8woBmamo8-16">
+          <mxGeometry x="-0.0857" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-13" target="c-ivuKC2rDV8woBmamo8-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-13" value="Are you on &quot;master&quot; &lt;br&gt;branch while the remote &lt;br&gt;repo uses &quot;main&quot;?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="490" y="440" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-15" value="[&lt;b&gt;&lt;i&gt;git branch -M main&lt;/i&gt;&lt;/b&gt;]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="492.5" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-18" target="c-ivuKC2rDV8woBmamo8-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-18" value="[&lt;b&gt;&lt;i&gt;git checkout -b &lt;/i&gt;&lt;/b&gt;&lt;i&gt;&amp;lt;new_branch_name&amp;gt;&lt;/i&gt;]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="210" y="690" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-28" target="c-ivuKC2rDV8woBmamo8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-38" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c-ivuKC2rDV8woBmamo8-37">
+          <mxGeometry x="-0.2615" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-28" target="c-ivuKC2rDV8woBmamo8-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-42" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c-ivuKC2rDV8woBmamo8-41">
+          <mxGeometry x="-0.0629" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-28" value="Does the branch &lt;br&gt;you need to work on &lt;br&gt;exist yet?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="635" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-40" value="[&lt;b&gt;&lt;i&gt;git switch&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;i&gt;&amp;lt;branch_name&amp;gt;&lt;/i&gt;]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="235" y="790" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-43" target="c-ivuKC2rDV8woBmamo8-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-43" value="Make project &lt;br&gt;changes as needed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="100" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-45" target="c-ivuKC2rDV8woBmamo8-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-45" value="[&lt;b&gt;&lt;i&gt;git add&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;i&gt;&amp;lt;file_name&amp;gt;&lt;/i&gt;]&lt;br&gt;or [&lt;b&gt;&lt;i&gt;git add .&amp;nbsp;&lt;/i&gt;&lt;/b&gt;]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="265" y="885" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-53" target="c-ivuKC2rDV8woBmamo8-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-53" value="[&lt;b&gt;&lt;i&gt;git commit -m&quot;&lt;/i&gt;&lt;/b&gt;&lt;i&gt;&amp;lt;change_type:subject&amp;gt;&lt;b&gt;&quot;&lt;/b&gt;&lt;/i&gt;]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="890" width="245" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-55" target="c-ivuKC2rDV8woBmamo8-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-55" value="[&lt;b&gt;&lt;i&gt;git push origin&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;i&gt;&amp;lt;branch_name&amp;gt;&lt;/i&gt;]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="730" y="890" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-57" target="c-ivuKC2rDV8woBmamo8-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-57" value="Create a merge request on GitHub/GitLab" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1045" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-59" target="c-ivuKC2rDV8woBmamo8-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-59" value="Review changes w/ team members" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1045" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-64" target="c-ivuKC2rDV8woBmamo8-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-79" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c-ivuKC2rDV8woBmamo8-78">
+          <mxGeometry x="-0.0167" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="1075" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-92" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c-ivuKC2rDV8woBmamo8-91">
+          <mxGeometry x="-0.0698" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-64" value="New change &lt;br&gt;good to go?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1000" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-70" target="c-ivuKC2rDV8woBmamo8-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-76" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c-ivuKC2rDV8woBmamo8-75">
+          <mxGeometry x="-0.5659" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-70" target="c-ivuKC2rDV8woBmamo8-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-70" value="Done w/ current&amp;nbsp;&lt;br&gt;branch?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1190" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-80" target="c-ivuKC2rDV8woBmamo8-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-80" value="[&lt;b&gt;&lt;i&gt;git switch main&lt;/i&gt;&lt;/b&gt;]&lt;br&gt;[&lt;i style=&quot;&quot;&gt;&lt;b&gt;git branch -d&lt;/b&gt;&amp;nbsp;&amp;lt;branch_name&amp;gt;&lt;/i&gt;] &amp;amp;&amp;nbsp;&lt;br&gt;[&lt;b&gt;&lt;i&gt;git fetch --prune&lt;/i&gt;&lt;/b&gt;]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1237.5" width="210" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-82" target="c-ivuKC2rDV8woBmamo8-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-82" value="[&lt;b&gt;&lt;i&gt;git fetch&lt;/i&gt;&lt;/b&gt;]&lt;div&gt;[&lt;b&gt;&lt;i&gt;git merge&lt;/i&gt;&lt;/b&gt;]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1242.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="c-ivuKC2rDV8woBmamo8-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="710" as="targetPoint" />
+            <mxPoint x="990" y="1190" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="990" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-89" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c-ivuKC2rDV8woBmamo8-87">
+          <mxGeometry x="-0.6706" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-84" target="c-ivuKC2rDV8woBmamo8-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-98" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c-ivuKC2rDV8woBmamo8-97">
+          <mxGeometry x="-0.0333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-84" value="More changes &lt;br&gt;to make?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1190" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990" y="700" />
+              <mxPoint x="990" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-94" value="Start&lt;br&gt;(already have local Git repo)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="902.5" y="95" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-96" value="Done!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="945" y="1400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-99" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="700" y="110" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-100" value="&amp;nbsp;= Initial Setup" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="735" y="110" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="700" y="150" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-102" value="&amp;nbsp;= Cycle to Make Changes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="735" y="150" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-108" target="c-ivuKC2rDV8woBmamo8-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-108" value="[&lt;i&gt;&lt;b&gt;git remote add origin&lt;/b&gt; &amp;lt;project_url&amp;gt;&lt;/i&gt;]&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="430" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-ivuKC2rDV8woBmamo8-114" target="c-ivuKC2rDV8woBmamo8-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-ivuKC2rDV8woBmamo8-114" value="Create a new project &lt;br&gt;on GitHub/GitLab" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="360" width="145" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
